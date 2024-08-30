@@ -1,6 +1,6 @@
 USTH ICT Android Development 2024
 ========================================
 
-* BI13107
-* **Your name**
-* **Your class**
+* **22BI13107**
+* **Nguyen Tuan Dung**
+* **ICT Class 1**
