@@ -13,23 +13,23 @@
 
 <LinearLayout
     android:id="@+id/container"
-    android:layout_width="720px"
-    android:layout_height="48px"
+    android:layout_width="960dp"
+    android:layout_height="64dp"
     android:orientation="horizontal"
-    android:padding="4px">
+    android:padding="5.333dp">
     <View
-        android:layout_width="0px"
-        android:layout_height="1px"
+        android:layout_width="0dp"
+        android:layout_height="1.333dp"
         android:layout_weight="1" />
     <TextView
         android:id="@+id/item1"
-        android:layout_width="100px"
+        android:layout_width="133.333dp"
         android:layout_height="match_parent"
-        android:paddingLeft="8px"
-        android:paddingRight="8px" />
+        android:paddingLeft="10.666dp"
+        android:paddingRight="10.666dp" />
     <View
-        android:layout_width="1px"
+        android:layout_width="1.333dp"
         android:layout_height="match_parent"
-        android:layout_marginLeft="8px"
-        android:layout_marginRight="8px"
-        android:background="@drawable/divider" />
+        android:layout_marginLeft="10.666dp"
+        android:layout_marginRight="10.666dp"
+        android:background="@drawable/backgr" />
